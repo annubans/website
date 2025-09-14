@@ -1,0 +1,55 @@
+/* Custom Navbar Styling */
+.custom-navbar {
+  background-color: #212529 !important;
+}
+
+.custom-brand {
+  color: #fffbfb !important;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 30px !important;
+}
+
+.custom-navbar .nav-link {
+  color: #fffbfb !important;
+}
+
+/* General page styles */
+body {
+  background-color: #000000;
+}
+
+.budt-748-industry-practicum-product-manager-with-6-years-of-experience-in-e-commerce {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+}
+
+.budt-748-industry-practicum-product-manager-with-6-years-of-experience-in-e-commerce-span2 {
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+/* Button styles */
+.get-started-btn {
+  background-color: #a8ff35;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+/* Footer style */
+.annu-bansal-university-of-maryland-fall-2025 {
+  color: #fffbfb;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px; 
+  font-weight: 400;
+}
+
+.bg-black {
+  background-color: #000000;
+}
